@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smoking",
+  "ingredient": {
+    "item": "crustaceans:crab"
+  },
+  "result": "crustaceans:cooked_crab",
+  "experience": 0.35,
+  "cookingtime": 100
+}

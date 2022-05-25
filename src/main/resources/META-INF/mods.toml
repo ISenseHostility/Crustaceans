@@ -1,0 +1,29 @@
+modLoader="javafml" #mandatory
+loaderVersion="[40,)" #mandatory This is typically bumped every Minecraft version by Forge. See our download page for lists of versions.
+license="All Rights Reserved"
+issueTrackerURL=""
+
+[[mods]] #mandatory
+modId="crustaceans" #mandatory
+version="1.18.2-1.0.0" #mandatory
+displayName="Crustaceans" #mandatory
+displayURL="https://www.curseforge.com/minecraft/mc-mods/crustaceans"
+logoFile="crustaceans.png" #optional
+authors="ISenseHostility" #optional
+description='''
+    Crustaceans aims to make Minecrafts oceans a bit more lively by adding a couple new creatures to them.
+    '''
+
+[[dependencies.crustaceans]]
+modId="forge"
+mandatory=true
+versionRange="[40,)"
+ordering="NONE"
+side="BOTH"
+
+[[dependencies.crustaceans]]
+modId="minecraft"
+mandatory=true
+versionRange="[1.18.2,)"
+ordering="NONE"
+side="BOTH"

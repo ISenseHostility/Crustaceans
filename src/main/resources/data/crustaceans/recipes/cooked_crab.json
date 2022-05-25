@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "item": "crustaceans:crab"
+  },
+  "result": "crustaceans:cooked_crab",
+  "experience": 0.1,
+  "cookingtime": 200
+}

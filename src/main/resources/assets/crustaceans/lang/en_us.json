@@ -1,0 +1,12 @@
+{
+  "entity.crustaceans.crab": "Crab",
+  "entity.crustaceans.lobster": "Lobster",
+
+  "item.crustaceans.claw": "Claw",
+  "item.crustaceans.crab": "Crab",
+  "item.crustaceans.cooked_crab": "Cooked Crab",
+  "item.crustaceans.lobster": "Lobster",
+  "item.crustaceans.cooked_lobster": "Cooked Lobster",
+  "item.crustaceans.crab_bucket": "Crab Bucket",
+  "item.crustaceans.lobster_bucket": "Lobster Bucket"
+}
